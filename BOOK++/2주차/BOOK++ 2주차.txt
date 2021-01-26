@@ -1,0 +1,199 @@
+이주현
+
+1. 모르는 단어
+- validate : 확인
+=> He feels that today's economic problems validate his opposition to the policy.
+: 오늘의 경제적 문제들이 그의 의견을 확인시켜줬다는 뜻.
+- exploratory: 탐구적인
+=> She's having some exploratory tests done to find out what's causing the illness.
+: 병의 원인을 알아내기 위해서 탐구적인 실험을 한다는 뜻.
+- append: 추가
+=> The author appends a short footnote to the text explaining the point.
+: 문서에 짧게 각주를 추가한다는 뜻.
+
+2. 인상 깊었던 구절
+In software, everything is possible but nothing is free.
+
+3. 읽었던 내용에 대한 생각 
+- 이 책을 진짜 프로젝트를 진행중이거나 프로젝트를 하기 직전에 읽어봤으면 더 좋았을 것 같다. 
+- 솔루션을 생각할 때 항상 문제와 같이 생각해야한다는 점이 와닿았다. 답만 찾는데 급급할 것이 아니라 문제를 정확히 파악해야 더 좋은
+솔루션을 찾아낼 수 있을 것 같다. 
+
+권예빈
+
+<2주차(2020.10.04): p.19 ~ p.54>
+1. 모르는 단어가 있으면 간단한 예제와 함께 소개하기
+· chomp at the bit:
+(intransitive, idiomatic) (of a person) to show impatience or frustration when delayed 
+ex) Electronics makers chomping at the bit.
+
+· tweak:
+A slight adjustment or modification.
+ex) He is running so many tweaks it is hard to remember how it looked originally.
+
+· peripheral:
+Beside the point, Unimportant, Auxiliary
+
+· chassis:
+A base frame, or movable railway, along which the carriage of a mounted gun moves backward and forward.
+
+· indecipherable:
+Not decipherable; impossible to decode, read, understand or comprehend.
+ex) The doctor's handwriting was indecipherable.
+
+· flesh out:
+(idiomatic) To complete; to create details from a basic outline, structure or skeleton.
+ex) The model shows the basics, but we still need to flesh out the details.
+
+· unanticipated:
+not expected to arrive; scheduled
+
+· exploratory:
+Serving to explore or investigate.
+
+· breadth:
+The extent or measure of how broad or wide something is.
+(graph theory) The length of the longest path between two vertices in a graph.
+
+· conspiratorial:
+Pertaining to conspiracy or conspirators.
+ex) His conspiratorial whispers were soft, but that just attracted more attention.
+
+· you had to be there:
+used to say that people cannot understand something because they did not experience it or see it themselves
+
+· asynchronous:
+Not synchronous; occurring at different times.
+(computing, of a request or a message) Allowing the client to continue during processing.
+(computing, communication) Having many actions occurring at a time, in any order, without waiting for each other.
+
+
+2. 인상 깊었던 1~2구절 적어오기
+· In software, everything is possible but nothing is free. 
+
+
+3. 읽었던 내용에 대해서 간단한 자기 생각
+· 실제 Basecamp에서 사용했던 예시를 들어 pitch를 작성하는 방법을 설명해준 점이 이론적인 내용을 실전에 적용시키는 방법을 익히는데에 도움이 되었다.
+· 저자는 정해진 appetite 내에 할 수 있는 것과 없는 것을 분류하여 선택과 집중을 하는 것이 중요하다고 주장한다. 
+본문의 예시처럼, 같은 그룹 내의 할 일들을 같은 색으로 표시하는 기능은 심미적으로 아름다울 수 있으나, 같은 시간에 다른 기능적인 부분을 보완하는 것이 프로그램의 성능 향상에 더 이바지 할 것이다.
+종종 프로젝트를 진행할 때 사소한 기능에 시간을 낭비하곤 했었는데, 추후 그런 일을 방지하는 데에 이 책의 내용이 큰 도움이 될 것이다.
+· 그룹 프로젝트를 진행할 때, 내 생각을 정리하여 전달하는데에 시간을 많이 쓰곤했다. 앞으로는 Breadboards 기법을 적극적으로 사용하여 불필요하게 사용되는 시간을 줄이고, 효율적으로 전달할 수 있을 것이다.
+· Shaping은 종종 독단적으로 이루어지는 것 같은데, 이런 의사결정 방식이 팀워크를 저해하는데에 영향을 미치지는 않을지 우려스럽다.
+
+
+박장성
+
+1. temper. to make something less strong 완화하다, the tendency to become angry very quickly 성질머리
+ - in that case, we need to temper the excitement by checking...
+2. chomp at the bit - be restlessly(차분하지 못하게) impatient to start doing something
+ - wherher we're chomping at the bit or reluctant to dive in....
+3. batch - 일괄, 그룹, 뭉텅이(비슷한,같은 타입의)
+ - we looked at the job applications in two batches
+4. typos - 오타
+ i don't want to release a book with embarrassing typos...
+5. core <-> peripheral, unnecessary  // 중요한, 핵심적인 <-> 중요치않은 주변의
+the fixed time box pushes them to make decisions about what is core to the project and what is peripheral or unnecessary.
+6. face value - 액면가
+7. telltale - (자동적으로)경고하는, 고자질하는
+- tell-tale sign
+8. kick-off 시작
+9. get the better of A - A보다 잘해버리다
+- our excitement about improving a huge part of our app got the better of us.
+10. chassis 섀시 (차의 뼈대) 
+11, invoice ( 판매자측이 구매자측에 보내는 송장, 보냄표)
+12 affordance 행동을 유발한다는 뜻
+13 provoke 도발하다 화나게하다, 유발하다 야기하다
+- just figuring out what to write under the bar starts to provoke debates and discussions.
+14 deliverable - 결과물 something that can be provided or achieved as a result of a process.
+15 indecipherable -> in-de-cipher-able -> 판독할수 없는. 이해할 수 없는
+ -> cipher 암호
+16 flesh out -> to give substance(물질, 실체) to , 살을 붙이다
+-> elaborate on이랑 비슷한 뜻
+17 viable - 생존 가능한, 실행 가능한,
+18 validate - 유효하게 하다
+-> we didn't work in the shaping phase to validate that a viable approach existed.
+19 tackle - to deal with
+20 play it out -> 끝까지 하다 
+21 time window - 사전에 정해진 시간범위
+22 verify - 사실인지 입증하다
+- there may be a technical assumption that you need to verify.
+23 walk somebody through - 하나하나 단계별로 설명하다
+- this is a good time to grab some technical experts and walk them through the idea.
+24 conspire - 음모를 꾸미다, 공모하다
+25 tractable - 다루기 쉬운 manageable
+26 fitness - 신체적으로 건강함, 뭔가 맞음,적합성
+- without a specific problem, there's no test of fitness to judge whether one solution is better than the other.
+27 ingenious 기발한 독특한 창의적인
+28 retention - the continued use, existence, or possession of something or someone
+ - 회사입장에서 볼때 user retention 이라 하면 약간 탈퇴하지 않고 계속 이용하는 유저? 느낌인 듯.
+29 status quo - 현재 상황
+30 ensue - follow
+31 embed - 끼워넣다. 박아넣다.
+32 dashboard 계기판, 웹에서, 한 화면에서 다양한 정보를 중앙 집중적으로 관리하고 찾을 수 있도록 하는 사용자 인터페이스(UI)
+33 disclaimer - 권리 포기 각서
+- designers should feel free to find a different design than the box divided with a vertical line.
+  we've add a disclaimer here in the pitch that reminds designers of the latitude they should take.
+34 latitude - 위도 말고 자유라는 뜻이 있음
+35 linchpin - 핵심이 되는 것
+36 synchronous - 동시에 일어나는
+37 stakeholder - 주주, 이해당사자
+38 pull up - 차가 잠치 정차하다.
+
+
+
+
+이해가 안갔던 문장 Add tabs to the iPad 
+app” might be attractive to UI designers, but what’s to prevent the discussion from devolving 
+into a long debate about different UI approaches? 
+이제는 이해함 devolve into - 안좋은 상태로 변하다
+
+24페이지에 case study:defining calendar 보고 자기 생각 간단히 적기
+뭔가 굉장히 혁신적인 기업이라는 게 느껴진다. 즉 상명하복에 수직적인 구조가 아닌 것 같다.
+고객이 달력이 필요하다고 물음 = 아 엄청난 기능의 달력이 아니라 빈 스케쥴을 확인할 정도면 되겟구나라고
+set boundaries를 함. 
+
+
+3. set boundaries 에서 in rare cases where the scope is so big that a six-week project isn't conceivable, 
+we'll try to hammer it down by narrowing the problem definition.이라고 한다. 근데 심지어 범위를 못 줄일 것 같으면
+break off a meaningful part of the project that we can shape to a six-week appetite이라고 한다.
+즉 어떻게든 원칙을 앞세워 큰 문제를 작은 문제로 쪼개려는 모습이 인상적이다.
+
+4. Find the elements을 실천하기 위해서 두가지 방법이 제시된다
+1 breadboarding 2 fat marker sketches
+둘을 이용해 재빠르게 여러 모델을 그려보고 (적당히 추상적으로) 서로 장단점을 비교하는 것이다
+정말 아무 것도 아닌 것 같으면서도 굉장히 획기적이다
+breadboarding이 약간 텍스트에디터 느낌이라면 fat marker sketches는 비주얼에디터(?) 느낌이다
+
+이런 방법을 통해서 element를 find했지만 여전히 Not deliverable yet이다.
+즉 여전히 rough하다. 그러므로 팀에게 건네주기 전에 뭔가를 더 고려해야한다. (stress-testing, de-risking)
+
+5. risks and rabbit holes
+위에서 아무리 이래저래 짜놔도 all it takes is one hole in the concept to derail이란다.
+그러니까 디자이너나 프로그래머처럼 실무자가 아닌 설계자(shaper)들은
+좀 더 본질적인, basic quality and risk에 신경을 써야한다. 그리고 이 단계에서 발견한
+patch들은 다음 챕터인 pitch에서 설명한다.
+
+-- 그리고 pitch로 가기 전에 present to experts를 한다. 여태까지는 closed door activity였다.
+따라서 실제로 실현 가능성이 있는지, 기술적으로 실현 가능한지 등을 전문가한테 검증(verify)
+받아야 한다.
+질문 예시 -> 이거 가능할까요? x 이거 6주안에 가능할까요? o
+그리고 이 과정에서 미처 발견하지 못한 time bomb that might blow up the procject once it's
+committed to a team을 찾아야 한다.
+이 작업을 끝나면 드디어 private -> betting table(본격적인 시작)의 단계이다.
+그러기 위해서는 pitch라는 걸 해야한다.
+
+6 write the pitch
+
+우리가 shape 했던 some hard-to-decipher drawings를 이제 사람들도 이해할 수 있게끔 put the
+concept into a form 하는 단계. it's basically a presentation.
+pitching에는 5가지 요소가 있따
+1 problem - something we've seen that motivates us to work on this
+2 appetite - how much time we want to spend and how that constrains the solution
+3 solution - the core elements we came up with, presented in a form that's easy for people to immediately understand
+4 rabbit holes - details about the solution worth calling out to avoid probles
+5 no-gos - anything specifically excluded from the concept
+
+pitch도 적당한 level of detail이 필요하지만 전의 과정보다 조금 더 concrete해야한다
+왜냐하면 우리가 pitch할 대상은 이 아이디어를 처음 접하기 때문이다.
+
+pitch가 끝나면 드디어 betting process이다.

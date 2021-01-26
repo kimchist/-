@@ -1,0 +1,215 @@
+권예빈
+
+<3주차(2020.10.10): p.55 ~ p.71
+1. 모르는 단어가 있으면 간단한 예제와 함께 소개하기
+· C-level;
+noting or relating to executives at the highest management level in an organization, usually having titles beginning with the letter C or the word Chief
+
+· cap the downside:
+단점을 막다.
+
+· glimmer:
+to shine with a weak light or a light that is not continuous
+ex) She's never shown a glimmer of interest in classical music
+
+· stakeholder:
+a person such as an employee, customer, or citizen who is involved with an organization, society, etc. and therefore has responsibilities towards it and an interest in its success
+
+· sabbatical:
+a period of time when college or university teachers are allowed to stop their usual work in order to study or travel, usually while continuing to be paid
+ex)She's on sabbatical for six months.
+
+
+2. 인상 깊었던 1~2구절 적어오기
+· A cycle gives us a standard project size both for shaping and scheduling.
+
+3. 읽었던 내용에 대해서 간단한 자기 생각
+· 6주의 기간동안 하나의 프로젝트를 진행한다고 했을 때, 모든 버그를 다 수정할 수는 없을 것이라고 생각했다.
+이번 챕터는 내가 궁금해하던 문제에 관한 직접적인 답을 주어 궁금증이 해소되었다.
+· 앞서 이야기한 버그 수정과 관련하여, 오랜 시간이 흐른 뒤 코드를 수정하려면 그 코드가 의미하는 바가 무엇인지 분석하는데에 또 시간을 쓰게 될 것 같다. 
+작업할 때 주석을 꼼꼼하게 쓰는 습관의 중요성을 느낄 수 있었다.
+· Shaping과 Betting의 개념이 모호하게 다가왔다. 개인적으로 Shaping은 사이클 내에서 하나의 프로젝트를 진행할 때 내부의 문제를 다루는 방법을 설명한다고 느꼈다.
+반면 Betting은 프로젝트 외부에서 발생하는 문제, 예를들어 진행 프로젝트 외의 업무를 지시하는 경우, 에 관한 해결책을 제시하고있다는 인상을 받았다.
+
+이주현
+
+1. 모르는 단어
+- advocate
+=> 옹호하다 
+She advocates taking a more long-term view. (장기적 관점을 가지는 것을 옹호하다.)
+- cross-pollinate
+=> 교차수분(????????) 아마 여기에서는 팀끼리 아이디어를 교차로 짜면서 서로 도와준다 느낌인듯 합니다. 뜻 찾아보고 약간 놀람..
+- envision
+=> 상상하다
+The company envisions adding at least five stores next year. (회사가 가게를 5개 늘리는 것을 상상하다(마냥 공상같은 상상이 아니라 약간은 
+계획적인 상상의 느낌으로 쓰이는 듯합니다.)
+???? chp.9에서 R&D mode 부분에 1. ~~we mainly bet the time on spiking some ket pieces~~에서 spike가 무슨 뜻이로 쓰이는 걸까요?? 사전에도
+딱 맞는 뜻이 없네요..
+
+2. 인상 깊었던 구절
+- Everything is relevant, timely, and of the moment.
+- Really important ideas will come back to you.
+
+3. 읽었던 내용에 대한 생각 
+- 약간 실무자가 읽어야 더 잘 이해될 것 같다고 생각한다. 아직은 회사가 어떻게 돌아가는지에 대한 정확한 배경지식이 없기 때문에 약간은 그냥
+그렇구나하고 내용을 넘기는 느낌?이 강한 것 같다. 읽을 땐 오 그렇구나~하다가 다 읽고 나면 음 무슨 내용이였지?라는 생각이 약간 든다.
+
+
+박장성
+
+1. backlog - a large number of things that you should have done before and must do now
+ - 해야되는, 쌓여있는 일 장작 떼울 때 안에 넣어둔 장작인데 오랫동안 타지 않고 쌓여있는 데에서 유래됨
+
+2. timely 딱 그떄의 시기적절한, given or made available at a suitable moment, now
+
+3. overhead - 말그대로 머리 위, 사업 같은 것에서 불필요한 예산, 간접비
+- a를 하는데 10초지만 안전성을 고려하고 등등 5초가 걸리면 결국에는 a하는 데에는 15초가 걸린다.
+이때 5초가 간접비이다.
+
+4. collective - of or shared by every member of a group of people 집단적인, 그룹의 사람들이 참가해서 share하는
+
+5. QA - quality assurance - 품질 보증 ( 비즈니스 단어)
+
+6 feed into something ~에 반영하다, feed해서 something이 되다, 발전하다.
+
+7 headcount - the number of people who are in a place. 인원수
+
+8 afterward - later
+
+9 plead = to make an urgent, emotional statement or request for something 탄원, 변명 주장
+
+10 c-suite : 중역 (c로 시작하는 직책들 ceo cfo ,,)
+
+11 buy-in : the fact of agreeing with and accepting something that someone suggest
+ 아이디어나 접근방법에 대한 동의 혹은 지원, 구매
+ - if you want to go ahead with these plans, you'll need buy-in from the employees.
+
+12 leave out - 생략하다 포함시키지 않다. 빼다.
+
+13 that said - even so , 
+
+14 swath - a strip or belt, or a long area of somethin
+ the sheriff's department polices a wide swath of the country
+
+15 slate - to schedule or designate for a particular place and time 예정하다, 스케줄을 잡다
+
+16 upside - the advantage of a situation
+
+17 payout - a amount of money paid to someone
+
+18 spike - 하락하기 직전에 급상승하는 것.
+
+19 fuzzy - 흐릿한 not clear
+
+20 creep - to move slowly, quitely, carefully to avoid being noticed
+
+21 swing - to arrange for something to happen, by persuading people and often by acting slightly dishonestly
+ if you want an interview with Pedro, I could probably swing it for you.
+
+22 tarnish - to make or become less bright or a different colour
+
+23 vocal - 음성의 보컬의, often expressing opinions and complaints in speech
+ 
+24 perception - a belief or opinion, often held by many people and based on how things seem
+
+25 compelling - if a reason, argument, etc. is compelling, it makes you believe it or accept it cuz it is so strong, 강압적인
+
+26 disproportionate - too large or too small in comparison to something else, or not deserving its importance or influence.
+
+27 sweeping - 광범위하다, large
+
+28 overdue - not done or happening when expected or when needed, late
+
+29 averse - strongly disliking or opposed to
+
+
+
+
+챕터7 bets not backlogs
+
+pitch를 썼으니 bets할 차례이다 하지만 backlogs와 착각하면 안된다.
+the time spent constantly reviewing, grooming and organizing old ideas prevents everyone
+from moving forward on the timely projects that really matter right now
+
+여기서도 미니멀리스트적인 생각이 드러난다.
+물론 더 좋은 생각이 있고 창의적인 생각이 있을 수도 있다. 하지만 nothing else is on the table이다
+왜냐하면 backlog of old ideas에 투자할 시간이 없다. 철저하다 못해 추위가 느껴질 정도로 현실
+적인 판단인 것 같다. 더 좋은 게 눈에 아른 거려도 지금 눈 앞에 있는 just a few well-shaped,
+risk-reduced options에 집중하라니...
+
+만약 pitch는 좋았지만 무산될 것 같으면, anyone who wants to advocate for it이 lobbies for it
+six weeks later이란다. 철저히 원칙적으로 한다는 말이다.
+
+그런데 또 뒤에는 decentralized lists라고
+꼭 지나간 아이디어들을 배척만 하는 것도 아닌 것 같다. 이래저래 영어다 보니... 완전히 이해하고 있는 것 같지는 않다
+
+아무튼 그것이, 지나간 아이디어들이 어떻게 중요한지 아는가? important ideas come back
+즉 그 아이디어가 계속 해서 당신을 찾아온다면, 그게 중요한 거 아니겠는가?
+if you hear it once and never again, maybe it wasnt't really a problem. And if you keep hearing about it,
+you'll be motivated to shape a solution and pitch betting time on it in the next cycle.
+
+그리고 일단 pitch하기 전까지 shape의 기간도 6주인가보다. pitch->bet결정 나면 6주 사이클을
+돌린다고 파악했는데 아닌가보다.
+
+
+
+
+챕터 8 the betting table
+
+일단 스윽 6 weeks cycle을 복습해준다 친절하게도
+너무 길어서 막연하게 느껴져서 팀원들이 나태해지거나
+너무 짧아서 결과물이 조악하게 되지 않게 만드는
+적당한 기간이 6주라고 주장한다. 
+Six weeks is long enough to finish something meaningful and still short enough to see the end from the beginning.
+나는 그리고 여기에 동의한다.
+
+그리고 6주를 열심히 달렸으면 2주의 cool-down이 있다고 한다. 무려 2주나. 이 때에는 전혀 부담
+없이 쉬면서 다음 계획을 짠다고 한다. 굉장히 혁신적이다. 
+
+betting의 뜻 - 
+1. bets have a payout - 
+2. bets are commitments  - 한번 시작했으면 with no interruptions 진행한다.
+
+
+
+그리고 이 6주를 프로젝트 하나만 하면 big batch, 작은 여러개면 small batch로 분류한다고 한다.
+
+우리가 도중에 interrupted 되지 않는다면, 중간에 bug가 발생하면 어떻게 할까?
+일단 bug라고 해서 큰 의미를 부여할 필요는 없고 얼마나 심각한 문제인지가 중요하다고 한다.
+그리고 중간에 멈춰야 할 정도로 큰 문제는 거의 없지만 그런 문제가 생기면 we'll drop everything 
+to fix it, 다른 거 다 제쳐두고 fix한다고 한다.
+
+
+
+챕터 9 place your bets
+
+existing products인지 new producs인지에 따라 방법이 좀 나뉜다고 한다.
+new products의 경우 R&D mode, Production mode, Clean up mode가 있단다.
+
+betting table에서 듣게 될 말들
+1. does the problem matter?
+problem이 중요하다. 왜냐하면 solution doesn;t matter if the problem isn't worth solving이기 때문이다
+모든 problem이 중요하겠지만, 우리는 시간이 한정되어있다. 따라서 "진짜"문제들만을 목표로 한다.
+so we weigh problems against each other. is this problem more important than that problem?
+
+is the appetite right?
+우리가 과연 짜놓은 계획이(2주 or 6주) 잘 설정된 걸까? 고민해봐야한다.
+
+is the solution attractive?
+
+is this the right time?
+
+are the right people available?
+이제 사람들(실무자)한테 일을 맡겨야 하니, 올바른 사람을 선택해야 한다.
+
+
+아마 여기까지(bet)가 계획단계이고 이제는 실무자들(programmers, designers)한테 일을 맡기는 단계인 것 같다.
+여태까지는 어쨋든 shape한 걸 bet, 정확히는 무슨 뜻인지는 모르겠지만 검토? 돈을 쓸만한 가치가 있나?
+뭐 대충 그런 내용인 것 같다.
+
+
+
+
+※ 읽으면서 든 의문점 ※
+
+1. shape과 bet부분이 끝났는데, shape하는 것과 bet하는 것의 차이점 생각해보기. 또 다음의 building부분 예측해보기

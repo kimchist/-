@@ -1,0 +1,112 @@
+권예빈
+
+<1주차(2020.09.26):  ~p18>
+1. 모르는 단어가 있으면 간단한 예제와 함께 소개하기
+· looming :
+(of something unwanted or unpleasant) about to happen soon and causing worry
+(중요하거나 위협적인 일이) 곧 닥칠 것처럼 보이다
+ex) There was a crisis looming. 위기가 닥쳐오고 있는 것 같았다.
+
+· bogged down....:
+교착 상태에 빠지다, 꼼짝 못하게 하다; 수렁에 빠지다, 늪에 가라앉히다; 가라앉다. (=cause to sink in a bog; delay, hinder, stall; sink in.)
+ex) They were bogged down with the swamp. 그들은 늪에 빠져서 꼼짝 못했다.
+
+2. 인상 깊었던 1~2구절 적어오기
+· Projects are defined at the right level of abstraction: concrete enough that the teams know what to do, yet abstract enough that they have room to work out the interesting details themselves.
+
+3. 읽었던 내용에 대해서 간단한 자기 생각
+· We don't rethink our roadmap every two weeks. 무작정 프로젝트를 시작하기보다는 충분히 검토하고 방향성을 잡은 뒤 착수한다는 의미를 가장 잘 표현한 것 같다. 구상 단계에서 항상 유념해야 할 마인드라고 생각한다.
+· 하나의 프로젝트를 시작하고 끝내기까지 최적의 기간은 6주임을 알게되었다. 사용하던 앱이 업데이트 될 때 새로운 기능이 추가되지않아 투덜거린적이 있는데, 앞으로는 조금 더 참을성을 가지고 기다리기로 다짐했다.
+· 동시에 책에서는 6주동안 몇시간씩 일을 하는가는 중요하지 않다고 얘기했다. 실제로 저 일정에 맞추어 프로젝트를 진행하는 것이 효율성 측면뿐만 아니라 개인의 삶의 질을 해치는 수준인지 아닌지 알고싶었다.
+· 팀으로 일을 할 때, 프로그래머에게 구체적으로 업무 내용을 전달할수록 방향성을 잡는데에 수월 할 것이라고 생각했다. 그러나 이 책을 읽으며 적정 수준의 구체성이 오히려 책임감을 가지게 하며 실질적인 도움을 준다는 내용을 알게되어 흥미로웠다.
+· 계속 강조하던 Shaping에서의 right level of abstraction을 결정하는 방법을 The Dot Grid Calendar 프로젝트를 예시로 들어 설명한 점이 도움이 많이 되었다. 
+
+이주현
+
+1. 모르는 단어
+- high-fidelity mockups
+=> 높은 정확도의 모형(?)
+fidelity 정확도 mockup 실물 크기의 모형
+Archive (아카이브 였음!) : 저장됨
+frank : 솔직한
+=> To be frank(honest) with you 너한테 솔직해지자면
+
+2. 인상 깊었던 구절
+We can only judge what is a "good" solution in the context of how much time we want to spend and
+how important it is. 
+
+3. 읽었던 내용에 대한 생각 
+- 처음부터 디테일까지 모두 제공하는게 훨씬 도움될 줄 알았는데 아니라고 해서 신기했다. 
+- Dot Grid 스케치가 대충 그린 것 같아 보였는데 확실히 디자인할 공간은 많으면서 어떤 식으로 
+표현하고 싶은지에 대해 정확히 이해가 되서 놀랐다. 
+- 직접 예시를 많이 들어줘서 좋았다. 
+- 우리나라 회사들이 좀 읽어봤으면 하는 내용. 
+
+박장성
+
+1. articulate : 뭔가 분명하게 설명하다.
+ just as we were getting better at articulating the way we work to  ourselves 
+ 비슷한 느낌 : put someone’s thought into words in clear way
+
+2. quadruple 4배
+
+
+3. undertaking 사업, 비즈니스
+
+4. pitch :(물건을 팔거나 설득하기 위해 하는) 권유, 홍보, 겨냥하다 권유하다.
+ The new software is being pitched at banks
+ Representatives went to Japan to pitch the company's newest products.
+
+5. appetite : 욕구(시작하려는)  
+
+6. ship : to make something, especially computer products and equipment, available for sale
+ The company is now shipping the first in a new series of interactive DVDs.
+
+7. concrete <-> abstract 구체적인, 추상적인
+ 
+8. entail 수반하다(involve)
+ 
+9. fidelity : the degree to which a copy of something shows the true character of the original.
+
+10. trade-off : a situation in which you accept something bad in order to hace something good
+ For some car buyers, lack of space is an acceptable trade-off for a sporty design.
+
+11. spelled out : 굉장히 자세히 설명되다.
+
+12. channel : to direct something into a particular place or situation.
+ they reduce risk and channel the team's efforts.
+
+ 
+느낀 점: 확실히 읽어 나가는 데에는 문제가 없다. 즉, 흐름에는 방해가 되지 않는다. 
+ 하지만 일부 용어들, 예를 들면 add-hoc , seamless suite, single-sign-on 같은 단어들이 가독성을 해친다. 
+
+
+읽은 부분에 대한 내용: 
+
+shape - 팀에게 일을 맡기기 전에 프로젝트의 개요를 짜는 일(기획단계?)
+
+
+ Six-week cycles : 충분히 길어 보이지만 또 짧아 보이는 6주라는 시간을 설정해, 
+팀원들로 하여금 시간을 현명하게 쓰게 한다. 베이스캠프의 대부분의 상품이 Six-week cycles을 이용해 
+출시된다고 한다.
+
+ Shaping the work : 
+처음에 project를 shape 할 때에는 right level of abstraction을 설정하려고 노력해야 한다.
+	
+not too concrete
+ this leaves designers no room for creativity
+
+not too abstract
+ under-specified projects naturally grow out of control because there's no boundary to define what's 
+out of scope
+-------------
+Dot grid를 통한 예
+1. rought : 프로그래머와 디자이너에 일을 맡길 때에는 rought하게 shape을 하고 주어라. 그래야
+그들의 room to apply ther own judgement and expertise가 생긴다.
+
+2. solved : rough하긴 하지만 그래도 들어가야할 모든 기능은 다 들어가 있다. 즉 일이 향해야 할 방향은
+잘 드러나있다. 
+
+3.bounded : solved가 해야할 일을 알려준다면 bounded는 하지 말아야 할 일을 알려준다
+-------------
+
